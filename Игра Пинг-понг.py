@@ -16,7 +16,7 @@ window = display.set_mode((700, 500))
 display.set_caption('Игра Пинг-Понг')
 window.fill(LIGHT_BLUE)
 
-
+#ggghh
 
 clock = time.Clock()
 
